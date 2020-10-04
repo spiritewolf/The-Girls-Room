@@ -10,3 +10,5 @@ Welcome to The Girls Room, a real time chat application created with ReactJS, No
 You can pick from a number of rooms and chat with your girlies in real time! Enjoy!
 
 xx
+
+![gif](https://media.giphy.com/media/T8FrArSZJ86mWTwQ6s/giphy.gif)
